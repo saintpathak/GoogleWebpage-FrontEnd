@@ -1,0 +1,70 @@
+.container {
+    text-align: center;
+}
+
+.basic {
+    text-align: right;
+}
+
+.bohemia {
+    background-color: #66ccff;
+}
+
+.user input {
+    height: 20px;
+    width: 500px;
+    padding: 10px;
+    margin: 4px;
+    border: 1px solid grey;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.user img {
+    display: block;
+    position: absolute;
+    top: 385px;
+    right: 435px;
+    cursor: pointer;
+    height: 3%;
+    border-radius: 100%;
+}
+
+.search {
+    display: block;
+    position: absolute;
+    top: 61.5%;
+    right: 66.5%;
+    cursor: pointer;
+    height: 4%;
+}
+
+.image img {
+    margin-top: 15%;
+}
+
+.one {
+    height: 40px;
+    width: auto;
+    color: #646464;
+    background: #F2F2F2;
+    border: none;
+    cursor: pointer;
+    margin: 4px;
+}
+
+.one:hover,
+.two:hover {
+    color: #373737;
+    background: #D3D3D3;
+    border: none;
+}
+
+.two {
+    height: 40px;
+    width: auto;
+    color: #646464;
+    background: #F2F2F2;
+    border: none;
+    cursor: pointer;
+}
